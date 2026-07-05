@@ -1,0 +1,36 @@
+body {
+  background-color: #c2d0e8;
+}
+.bg {
+  background-color: #c2d0e8;
+  height: 900px;
+  border-radius: 20px;
+}
+.qr-card {
+  height: 600px;
+  width: 365px;
+  border-radius: 20px;
+}
+.qr-image {
+  height: 300px;
+  width: 330px;
+  border-radius: 20px;
+}
+.qr-content {
+  padding: 0px 35px;
+}
+#card-text {
+  text-align: center;
+  font-size: 19px;
+  font-weight: 300;
+  margin-top: 10px;
+}
+.attribution {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#footer-content {
+  font-size: 12px;
+  font-weight: bold;
+}
